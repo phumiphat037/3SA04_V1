@@ -3,6 +3,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import Weather from './components/weather';
 
+
 export default function App() {
 
   return (
